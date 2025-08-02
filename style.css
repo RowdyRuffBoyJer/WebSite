@@ -3,7 +3,7 @@
     width: 30%;
     height: auto;
     display: block;
-    margin: 0 auto;
+    margin: auto;
 }
 
 body {
@@ -12,3 +12,5 @@ body {
     font-family: Arial, sans-serif;
     color: rgb(138, 138, 138);
 }
+
+
