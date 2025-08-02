@@ -3,3 +3,9 @@
     width: 30%;
     height: auto;
 }
+
+body {
+    background-color: #000000;
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+}
