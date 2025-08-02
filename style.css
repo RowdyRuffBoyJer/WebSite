@@ -13,4 +13,10 @@ body {
     color: rgb(138, 138, 138);
 }
 
+@media (max-width: 600px) {
+    body {
+        text-align: center;
+    }
+}
+
 
