@@ -28,7 +28,7 @@ header {
 
 /* MENU BUTTON */
 #menu-button {
-    font-size: 2rem;
+    font-size: 3rem;
     cursor: pointer;
     color: white;
 }
@@ -37,10 +37,11 @@ header {
 
 nav {
     position: absolute;
-    top : 100%;
+    top: 100%; /* pushes nav below the header */
     right: 0;
-    width: 200px;
-    z-index: 999;
+    width: 200px; /* or whatever width you like */
+    background-color: #1a1a1a;
+    z-index: 999; /* keeps it above other content */
 }
 
 
