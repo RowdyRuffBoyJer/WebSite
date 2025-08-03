@@ -34,6 +34,16 @@ header {
 }
 
 /* NAV MENU */
+
+nav {
+    position: absolute;
+    top : 100%;
+    right: 0;
+    width: 200px;
+    z-index: 999;
+}
+
+
 nav ul {
     list-style: none;
     padding: 0;
