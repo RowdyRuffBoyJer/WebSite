@@ -9,7 +9,7 @@ body {
 
 /* Site Title */
 #site-title {
-    position: relative;
+    position: absolute;
     left: 50%;
     transform: translate(-50%);
     margin: 0;
@@ -17,9 +17,10 @@ body {
 
 /* HEADER STYLING */
 header {
+    position: relative;
     text-align: center;
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
     align-items: center;
     background-color: #111;
     padding: 1rem 1.5rem;
